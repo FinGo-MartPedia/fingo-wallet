@@ -1,7 +1,8 @@
 package constants
 
 const (
-	SuccessMessage       = "Success"
-	ErrFailedBadRequest  = "Bad Request"
-	ErrFailedServerError = "Internal Server Error"
+	SuccessMessage        = "Success"
+	ErrFailedBadRequest   = "Bad Request"
+	ErrFailedServerError  = "Internal Server Error"
+	ErrFailedUnauthorized = "Unauthorized"
 )
